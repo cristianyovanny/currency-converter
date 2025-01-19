@@ -1,3 +1,4 @@
+![Badge-Converter.png](resources/Badge-Converter.png)
 # 🌍 Conversor de Monedas
 
 ¡Bienvenidos al **Conversor de Monedas**! 🤑 Este es un proyecto en Java que te permitirá convertir monedas de manera sencilla y rápida. Si alguna vez te preguntaste cuántos pesos colombianos obtienes por tus dólares o euros, este programa es para ti. Además, incluye una opción personalizada para convertir cualquier par de divisas que necesites.
@@ -79,14 +80,6 @@ Ejemplo 2: Conversión Personalizada (EUR a USD)
 * Salida: La conversión de 50 EUR es: 54 USD
   
 ---
-## 🐛 ¿Errores Comunes? Aquí las Soluciones
-  Error: Malformed JSON
-
-Esto puede ocurrir si la API de conversión no está disponible o devuelve un JSON con errores. Verifica tu conexión a internet o intenta más tarde.
-Problemas con Entradas Vacías:
-
-Si el programa parece "saltarse" entradas, probablemente necesitas limpiar el buffer con sc.nextLine() después de usar sc.nextDouble().
-
 ## 🌟 ¿Por Qué Es Útil Este Proyecto?
 
 Este programa no solo es útil para conversiones rápidas, sino que también es una gran introducción al consumo de APIs y al manejo de datos dinámicos en Java. Además, te ayuda a practicar conceptos clave de programación que son esenciales para cualquier desarrollador.
