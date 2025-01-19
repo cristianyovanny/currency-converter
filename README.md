@@ -4,25 +4,6 @@
 
 ---
 
-## 📚 ¿Qué Aprendimos en Este Proyecto?
-
-Este proyecto fue una experiencia genial donde pusimos en práctica un montón de conceptos útiles de programación en Java, como:
-
-1. **Estructuras de Control:**  
-   Usamos `switch-case` para que el menú sea súper intuitivo.
-2. **Manejo de Entradas y Salidas:**  
-   La clase `Scanner` se convirtió en nuestra mejor amiga. Eso sí, aprendimos que a veces necesita un poco de ayuda con `sc.nextLine()` para no tropezarse. 😅
-3. **Clases y Objetos:**  
-   Creamos una clase `Converter` para encapsular toda la lógica de conversión y mantener el código ordenado.
-4. **Consumo de APIs:**  
-   Integramos datos reales con tasas de cambio usando una API externa. ¿Magia? No, ¡Java y `Gson`!
-5. **Validación de Datos:**  
-   Aprendimos a ser estrictos con las entradas. ¡Nada de monedas inexistentes o caracteres extraños!
-6. **Buenas Prácticas:**  
-   Modularizamos el código, usamos constantes para divisas válidas, y documentamos todo como si fuéramos expertos.
-
----
-
 ## 🚀 Funcionalidades
 
 ¿Y qué hace exactamente este programa?
